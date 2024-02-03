@@ -2,37 +2,32 @@
 class Day1 {
 	public helpers = require("./helpers");
 
-	public compareNextDigit(digits: number[], index: number): number {
-        if (index === digits.length - 1) {
+	public compareNextDigit(len: number, index: number): number {
+        if (index === len - 1) {
             return 0;
         }
-        return index + 1;
+        else{
+            return index + 1;
+        }
     }
 
-	public compareHalfwayDigit(digits: number[], index: number): number {
-        const otherIndex = index + digits.length / 2;
+	public compareHalfwayDigit(len: number, index: number): number {
+        const otherIndex = index + len / 2;
         
-        if (otherIndex >= digits.length) {
-            return otherIndex - digits.length;
+        if (otherIndex >= len) {
+            return otherIndex - len;
         }
-        
-        return otherIndex;
+        else{
+            return otherIndex;
+        }
     }
 
 	public solveCaptcha(captcha: string, compare: Function): number {
 		const digits = captcha.split("").map(Number);
-
-        let sum = 0;
         
-        digits.forEach((digit, index) => {
-            const otherIndex = compare(digits, index);
+        const solution = digits.filter((digit, i) => digit === digits[compare(digits.length, i)]);
 
-            if (digit === digits[otherIndex]) {
-                sum += digit;
-            }
-        });
-        
-        return sum;	
+        return solution.reduce((acc, curr) => acc + curr, 0);
 	}
 
 	public solveForFirstStar(lines: string[]) {
