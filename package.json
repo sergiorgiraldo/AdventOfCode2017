@@ -1,0 +1,42 @@
+{
+	"name": "advent-of-code-2017",
+	"logName": "Advent of Code 2017",
+	"version": "0.0.0",
+	"description": "Advent of Code 2017 using Node and TypeScript for Current Year.",
+	"main": "run.js",
+	"scripts": {
+		"start": "node run.js",
+		"type": "./type.sh",
+		"deploy": "./deploy.sh",
+		"submit": "node send.js",
+		"webserver": "node solutions/viewer-server.js",
+		"test": "jest --verbose --detectOpenHandles --forceExit"
+	},
+	"author": "Sergio Rodrigues Giraldo",
+	"license": "ISC",
+	"dependencies": {
+		"@graph-algorithm/minimum-cut": "^2.0.0",
+		"@types/jest": "^29.5.10",
+		"advent-of-code-client": "^0.2.0",
+		"compute-lcm": "^1.1.2",
+		"dotenv": "^16.3.1",
+		"english2number": "^1.0.8",
+		"express": "^4.16.4",
+		"jest": "^29.7.0",
+		"lodash": "^4.17.21",
+		"open": "^8.0.9",
+		"pre-push": "*",
+		"promise-path": "*",
+		"regenerator-runtime": "^0.14.1",
+		"standard": "*",
+		"stats-lite": "*",
+		"z3-solver": "^4.12.4"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.23.7",
+		"@babel/preset-env": "^7.23.7",
+		"@babel/preset-typescript": "^7.23.3",
+		"@jest/globals": "^29.7.0",
+		"babel-jest": "^29.7.0"
+	}
+}
