@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/sergiorgiraldo/AdventOfCode2017/compare/v1.0.0...v2.0.0) (2024-02-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* day 2 completed
+
+### Features
+
+* day 2 completed ([f08a6e1](https://github.com/sergiorgiraldo/AdventOfCode2017/commit/f08a6e1f75faf064b86618e44fe9f29b3412de45))
+
 ## 1.0.0 (2024-02-03)
 
 
