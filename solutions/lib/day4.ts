@@ -44,23 +44,23 @@ class Day4 {
 				for (var j = 0; j < words.length; j++) {
 					if (i === j) continue;
 
+					if (words[i].length != words[j].length) continue;
+
 					let word2Letters: SimpleHash = {};
 
 					for (let c of words[j]) {
 						word2Letters[c] = isNaN(word2Letters[c]) ? 1 : word2Letters[c] + 1;
 					}
 					
-					if (Object.keys(wordLetters).length == Object.keys(word2Letters).length) {
-						let match = true;
-						
-						Object.keys(wordLetters).forEach((chr) => {
-							match = wordLetters[chr] != word2Letters[chr] ? false : match;
-						});
+					let isAnagram = true;
 
-						if (match) {
-							isValid = false;
-							break;
-						}
+					Object.keys(wordLetters).forEach((chr) => {
+						isAnagram = wordLetters[chr] != word2Letters[chr] ? false : isAnagram;
+					});
+
+					if (isAnagram) {
+						isValid = false;
+						break;
 					}
 				}
 			}
