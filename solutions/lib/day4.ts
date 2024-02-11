@@ -1,8 +1,8 @@
-type SimpleHash = { [letter: string]: number; };
+type SimpleHash = { [letter: string]: number };
 
 class Day4 {
 	public helpers = require("./helpers");
-	
+
 	public solveForFirstStar(lines: string[]) {
 		let validPassphrases = 0;
 
@@ -14,8 +14,8 @@ class Day4 {
 				for (var j = 0; j < words.length; j++) {
 					if (i === j) continue;
 
-					if (words[i] === words[j]){ 
-						isValid = false; 
+					if (words[i] === words[j]) {
+						isValid = false;
 						break;
 					}
 				}
@@ -38,7 +38,9 @@ class Day4 {
 				let wordLetters: SimpleHash = {};
 
 				for (let c of words[i]) {
-					wordLetters[c] = isNaN(wordLetters[c]) ? 1 : wordLetters[c] + 1;
+					wordLetters[c] = isNaN(wordLetters[c])
+						? 1
+						: wordLetters[c] + 1;
 				}
 
 				for (var j = 0; j < words.length; j++) {
@@ -49,13 +51,18 @@ class Day4 {
 					let word2Letters: SimpleHash = {};
 
 					for (let c of words[j]) {
-						word2Letters[c] = isNaN(word2Letters[c]) ? 1 : word2Letters[c] + 1;
+						word2Letters[c] = isNaN(word2Letters[c])
+							? 1
+							: word2Letters[c] + 1;
 					}
-					
+
 					let isAnagram = true;
 
 					Object.keys(wordLetters).forEach((chr) => {
-						isAnagram = wordLetters[chr] != word2Letters[chr] ? false : isAnagram;
+						isAnagram =
+							wordLetters[chr] != word2Letters[chr]
+								? false
+								: isAnagram;
 					});
 
 					if (isAnagram) {
