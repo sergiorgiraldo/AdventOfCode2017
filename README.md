@@ -10,9 +10,9 @@ https://sergiorgiraldo.github.io/AdventOfCode2017/solutions/
 
 ## Performance
 
-![](https://img.shields.io/badge/day%20📅-25-blue)
+![](https://img.shields.io/badge/day%20📅-24-blue)
  
-![](https://img.shields.io/badge/stars%20⭐-8-yellow)
+![](https://img.shields.io/badge/stars%20⭐-10-yellow)
 
 ## Usage
 
