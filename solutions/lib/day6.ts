@@ -2,17 +2,13 @@
 class Day6 {
 	public helpers = require("./helpers");
 
-    public getStateValue(blocks: Array<number>): string {
-        return blocks.reduce((acc, curr) => acc.toString() + " " + curr.toString(), "");       
-    }
-
     public redistributeBlocks(configuration: string, getLoopSize: boolean): number {
         let blocks: Array<number> = configuration.split(/\s/).map(Number);
         let states: Array<string> = [];
         let redistributionCycles = 0;
 
         while (true){
-            let currentState = this.getStateValue(blocks);
+            let currentState = blocks.join("-");
             const seenState = states.findIndex((config) => config === currentState);
 
             if (seenState >= 0){
@@ -29,13 +25,12 @@ class Day6 {
 
                 let maxValue = Math.max(...blocks);
                 
-                let workIndex = blocks.indexOf(maxValue);
-                blocks[workIndex] = 0;
+                let currentIndex = blocks.indexOf(maxValue);
+                blocks[currentIndex] = 0;
 
                 while (maxValue > 0){
-                    workIndex += 1;
-                    if (workIndex >= blocks.length) workIndex = 0;
-                    blocks[workIndex] += 1;
+                    currentIndex = (currentIndex + 1) % blocks.length;
+                    blocks[currentIndex] += 1;
                     maxValue -= 1;
                 }
             }            
