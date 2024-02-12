@@ -35,6 +35,7 @@ class Day6 {
                 }
             }            
         }
+
         return redistributionCycles;
     }
 
