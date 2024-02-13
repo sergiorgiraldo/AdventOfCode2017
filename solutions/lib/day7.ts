@@ -11,7 +11,7 @@ class Node {
 	public weight!: number;
 	public connections!: string;
 	public next: (Node|undefined)[] = [];
-	public prev: (Node|undefined)[] = [];
+	public prev: Node|undefined = undefined;
 
 	constructor(input: string) {
 		let matches: RegExpExecArray | null = Node.regex.exec(input);
@@ -35,16 +35,17 @@ class Day7 {
         tree.nodes.forEach((node) => tree.nodesMap.set(node.id, node));
 		
         tree.nodes.forEach((node) => {
-			node.next = node.connections
-				? node.connections.split(", ")?.map((next) => tree.nodesMap.get(next))
-				: [];
-			node.next.forEach((next) => {
-				if (next) tree.nodesMap.get(next.id)?.prev.push(node);
+            if (node.connections){
+                node.next = node.connections.split(", ").map((next) => tree.nodesMap.get(next));
+
+                node.next.forEach((next) => {
+                    let nextNode = tree.nodesMap.get((next as Node).id) as Node;
+                    nextNode.prev = node;
+                });
             }
-			);
 		});
 		
-        const root = tree.nodes.find((node) => node.prev.length === 0);
+        const root = tree.nodes.find((node) => node.prev === undefined);
 
         if (root){
             tree.root = root;
@@ -61,26 +62,26 @@ class Day7 {
     }
 
     public getNewWeightForBalance(node: Node): number {
-        let previousStackWeight: number = 0;
-        let previous: Node = node as Node;
+        let currentStackWeight: number = 0;
+        let prev: Node = node as Node;
 
-        for (let child of node.next) {
-            let newWeight = this.getNewWeightForBalance(child as Node);
+        for (let child_ of node.next) {
+            const child = child_ as Node;
+
+            let newWeight = this.getNewWeightForBalance(child);
             if (newWeight) {
                 return newWeight;
             }
 
-            if (!child) throw Error("Which node???");
-
             let stackWeight = this.getStackWeight(child);
-            if (previousStackWeight && previousStackWeight !== stackWeight) {
-                if (previousStackWeight > stackWeight) {
-                    return previous.weight - previousStackWeight + stackWeight;
+            if (currentStackWeight && currentStackWeight !== stackWeight) {
+                if (currentStackWeight > stackWeight) {
+                    return prev.weight - currentStackWeight + stackWeight;
                 }
-                return child.weight - stackWeight + previousStackWeight;
+                return child.weight - stackWeight + currentStackWeight;
             }
-            previousStackWeight = stackWeight;
-            previous = child;
+            currentStackWeight = stackWeight;
+            prev = child;
         }
 
         return 0;
