@@ -1,6 +1,4 @@
-// import { expect, test } from "@jest/globals";
-import { test } from "node:test";
-import assert from "node:assert";
+import { expect, test } from "@jest/globals";
 import Day8 from "../solutions/lib/day8";
 
 const helpers = require("../solutions/lib/helpers.ts");
@@ -17,7 +15,7 @@ test("SolveFirstStar", () => {
 	lines.push("c dec -10 if a >= 1");
 	lines.push("c inc -20 if c == 10");
 
-	assert.equal(lib.solveForFirstStar(lines), 1);
+	expect(lib.solveForFirstStar(lines)).toBe(1);
 });
 
 test("SolveSecondStar", () => {
@@ -30,5 +28,5 @@ test("SolveSecondStar", () => {
 	lines.push("c dec -10 if a >= 1");
 	lines.push("c inc -20 if c == 10");
 
-	assert.equal(lib.solveForSecondStar(lines), 10);
+	expect(lib.solveForSecondStar(lines)).toBe(10);
 });
