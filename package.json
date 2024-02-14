@@ -1,7 +1,7 @@
 {
 	"name": "advent-of-code-2017",
 	"logName": "Advent of Code 2017",
-	"version": "9.0.0",
+	"version": "10.0.0",
 	"description": "Advent of Code 2017 using Node and TypeScript for Current Year.",
 	"main": "run.js",
 	"scripts": {
@@ -11,7 +11,7 @@
 		"submit": "node send.js",
 		"webserver": "node solutions/viewer-server.js",
 		"test": "jest --verbose --detectOpenHandles --forceExit",
-        "test-runner": "node --loader tsx --test tests/day*.ts"
+		"test-runner": "node --loader tsx --test tests/day*.ts"
 	},
 	"author": "Sergio Rodrigues Giraldo",
 	"license": "ISC",
