@@ -14,7 +14,7 @@ class Node {
 	public prev: Node|undefined = undefined;
 
 	constructor(input: string) {
-		let matches: RegExpExecArray | null = Node.regex.exec(input);
+		const matches: RegExpExecArray | null = Node.regex.exec(input);
 
         if (matches){
             this.id = matches[1];
