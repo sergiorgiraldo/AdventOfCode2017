@@ -1,41 +1,37 @@
 class Register {
+    public name: string;
+    public value: number;
+    public highestValue: number;
+
 	constructor(name: string) {
 		this.name = name;
 		this.value = 0;
 		this.highestValue = 0;
 	}
 
-	public name: string;
-	public value: number;
-	public highestValue: number;
-
-	SetValue(newVal: number) {
-		this.value = newVal;
-        this.highestValue = Math.max(this.highestValue, newVal);
+	public SetValue(newValue: number) {
+		this.value = newValue;
+        this.highestValue = Math.max(this.highestValue, newValue);
 	}
 }
-
-class RegisterLog {
-	[letter: string]: Register;
-}
-
 class Instruction {
-	constructor(line: string) {
-		let words = line.split(/\s/); // b inc 5 if a > 1
-		this.name = words[0];
-		this.instruction = words[1];
-		this.value = +words[2];
-		this.conditionName = words[4];
-		this.instructionCondition = words[5];
-		this.conditionValue = +words[6];
-	}
+    public name: string;
+    public operation: string;
+    public value: number;
+    public conditionName: string;
+    public conditionOperator: string;
+    public conditionValue: number;
 
-	public name: string;
-	public instruction: string;
-	public value: number;
-	public conditionName: string;
-	public instructionCondition: string;
-	public conditionValue: number;
+	constructor(line: string) {
+		const tokens = line.split(/\s/); // b inc 5 if a > 1
+
+		this.name = tokens[0];
+		this.operation = tokens[1];
+		this.value = +tokens[2];
+		this.conditionName = tokens[4];
+		this.conditionOperator = tokens[5];
+		this.conditionValue = +tokens[6];
+	}
 }
 
 class Day8 {
@@ -46,33 +42,29 @@ class Day8 {
 
         const instructionNames = instructions.map((i) => i.name);
         const conditionNames = instructions.map((i) => i.conditionName);
+        const uniqueNames = [...new Set([...instructionNames, ...conditionNames])];
 
-        let uniqueNames = [...new Set([...instructionNames, ...conditionNames])];
-
-        let allRegisters = uniqueNames.map((nm) => new Register(nm));
-
-        let registers: RegisterLog = {};
-
-        allRegisters.forEach((register) => registers[register.name] = register);
+        let registers = uniqueNames.map((nm) => new Register(nm));
 
         for (let instruction of instructions) {
-            let registerToUpdate = registers[instruction.name];
-            let registerToCheck = registers[instruction.conditionName];
+            let registerToUpdate = registers.find((r) => r.name == instruction.name) as Register;
+            let registerToCheck = registers.find((r) => r.name == instruction.conditionName) as Register;
 
             let applyInstruction = false;
-            switch(instruction.instructionCondition) {
-                case "<"    : applyInstruction = registerToCheck.value <  instruction.conditionValue; break;
-                case ">"    : applyInstruction = registerToCheck.value >  instruction.conditionValue; break;
-                case ">="   : applyInstruction = registerToCheck.value >= instruction.conditionValue; break;
-                case "<="   : applyInstruction = registerToCheck.value <= instruction.conditionValue; break;
-                case "!="   : applyInstruction = registerToCheck.value != instruction.conditionValue; break;
-                case "=="   : applyInstruction = registerToCheck.value == instruction.conditionValue; break;
+            switch(instruction.conditionOperator) {
+                case "<"    : applyInstruction = (registerToCheck.value <  instruction.conditionValue); break;
+                case ">"    : applyInstruction = (registerToCheck.value >  instruction.conditionValue); break;
+                case ">="   : applyInstruction = (registerToCheck.value >= instruction.conditionValue); break;
+                case "<="   : applyInstruction = (registerToCheck.value <= instruction.conditionValue); break;
+                case "!="   : applyInstruction = (registerToCheck.value != instruction.conditionValue); break;
+                case "=="   : applyInstruction = (registerToCheck.value == instruction.conditionValue); break;
                 default: throw "NOT IMPLEMENTED";
             }
+            
             if (applyInstruction) {
-                if (instruction.instruction == "inc")
+                if (instruction.operation == "inc")
                     registerToUpdate.SetValue(registerToUpdate.value + instruction.value);
-                if (instruction.instruction == "dec")
+                if (instruction.operation == "dec")
                     registerToUpdate.SetValue(registerToUpdate.value - instruction.value);
             }
         }
@@ -80,10 +72,10 @@ class Day8 {
         let result!: number;
 
         if (pt === 1){
-            result = allRegisters.reduce((prev, curr) => Math.max(curr.value, prev),0);
+            result = registers.reduce((prev, curr) => Math.max(curr.value, prev), 0);
         }
-        else{
-            result = allRegisters.reduce((prev, curr) => Math.max(curr.highestValue, prev),0);
+        else{ //pt === 2
+            result = registers.reduce((prev, curr) => Math.max(curr.highestValue, prev), 0);
         };
 
         return result;
@@ -91,7 +83,7 @@ class Day8 {
 
     public parse(lines: string[]): Instruction[]
     {
-        let result = lines.map((val) => new Instruction(val));
+        let result = lines.map((line) => new Instruction(line));
         return result;
     }
 
