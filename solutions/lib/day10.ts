@@ -8,14 +8,14 @@ class Day10 {
         let skip = 0;
         for (let step = 0; step < steps; step++) {
             lengths.forEach((length) => {
-                marks = this.sortMarks(marks, idx, length);
+                marks = this.tieKnots(marks, idx, length);
                 idx += length + skip++;
             });
         }
         return marks;
     }
 
-    public sortMarks(marks: number[], idx: number, length: number): number[] {
+    public tieKnots(marks: number[], idx: number, length: number): number[] {
         let startIdx = idx;
         let endIdx = startIdx + length - 1;
 
@@ -35,31 +35,16 @@ class Day10 {
     public computeDenseHash(sparseHash: number[]): number[] {
         let denseHash: number[] = new Array<number>();
 
-        for(let i = 0; i < 16; i++)
-        {
-            let wordStart = i * 16;
-            let wordBit = sparseHash[wordStart];
-            for (let j = 1; j < 16; j++) {
-                wordBit ^= sparseHash[wordStart + j];
-            }
-            denseHash.push(wordBit);
+        for (let i = 0; i < 16; i++) {
+            const block = sparseHash.slice(i * 16, i * 16 + 16).reduce((a, b) => a ^ b);
+            denseHash.push(block);
         }
 
         return denseHash;
     }
 
     public getHexRepresentation(denseHash: number[]): string {
-        let result = "";
-        for(let i = 0; i < 16; i++)
-        {
-            let digit = denseHash[i].toString(16);
-            if (digit.length == 1)
-                result += "0" + digit;
-            else
-                result += digit;
-        }
-
-        return result;    
+        return denseHash.map(digit => ("0" + digit.toString(16)).slice(-2)).join("");
     }
 
     public computeKnotHash(input: string): string {
