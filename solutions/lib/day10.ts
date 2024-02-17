@@ -56,9 +56,9 @@ class Day10 {
 
         lengths.push(17, 31, 73, 47, 23);
 
-        let hash = this.computeSparseHash(256, lengths, 64);
+        let sparseHash = this.computeSparseHash(256, lengths, 64);
         
-        let denseHash = this.computeDenseHash(hash);
+        let denseHash = this.computeDenseHash(sparseHash);
         
         let hexString = this.getHexRepresentation(denseHash);
         
