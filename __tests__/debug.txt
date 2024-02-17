@@ -1,0 +1,1637 @@
+2/18/2024, 12:06:27 AM
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 3 with 29
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+30
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+30
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 10 with 9
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+31
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+31
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 11 with 9
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+30
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+30
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 12 with 32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+30
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+30
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 15 with 14
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+31
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+31
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 22 with 36
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 23 with 37
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 24 with 38
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+32
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 30 with 44
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+37
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+37
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 4 with 44
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+36
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+36
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 18 with 49
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 37 with 36
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 38 with 51
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 40 with 52
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+40
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 44 with 58
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+45
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+45
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 9 with 60
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 60 with 62
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+47
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+47
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 32 with 62
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 46 with 62
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+45
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+45
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 14 with 34
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+45
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+45
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 17 with 65
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 49 with 66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 51 with 67
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 52 with 68
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 53 with 69
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 27 with 70
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 56 with 72
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+47
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+47
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 59 with 58
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+46
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 65 with 79
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+52
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+52
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 67 with 81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+53
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+53
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 72 with 85
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+56
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+56
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 58 with 86
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+56
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+56
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 73 with 86
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+55
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+55
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 7 with 86
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+54
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+54
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 62 with 90
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+57
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+57
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 63 with 92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+58
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+58
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 76 with 92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+57
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+57
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 77 with 92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+56
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+56
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 90 with 103
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 103 with 104
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 93 with 105
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+66
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 94 with 105
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+65
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+65
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 98 with 111
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+70
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+70
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 85 with 113
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+71
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+71
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 86 with 116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+73
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+73
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 116 with 117
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+73
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+73
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 87 with 119
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+74
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+74
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 105 with 124
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+78
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+78
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 106 with 127
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+80
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+80
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 108 with 129
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 68 with 110
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+83
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+83
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 71 with 133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+83
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+83
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 114 with 113
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+82
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+82
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 117 with 101
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 115 with 134
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+81
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 118 with 138
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+84
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+84
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 119 with 140
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+85
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+85
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 88 with 142
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+86
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+86
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 120 with 144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+87
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+87
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 126 with 147
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+89
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+89
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 131 with 149
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+90
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+90
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 112 with 152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 139 with 153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+92
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 142 with 141
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+91
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+91
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 104 with 154
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+91
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+91
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 148 with 159
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+95
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+95
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 150 with 162
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+97
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+97
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 152 with 163
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+97
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+97
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 140 with 153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+102
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+102
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 154 with 172
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+104
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+104
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 155 with 174
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+105
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+105
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 157 with 177
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+107
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+107
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 113 with 187
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 101 with 187
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+115
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+115
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 164 with 187
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+114
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+114
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 172 with 190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 173 with 191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 176 with 192
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+116
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 179 with 195
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+118
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+118
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 149 with 197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+119
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+119
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 184 with 200
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+121
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+121
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 169 with 206
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+126
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+126
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 174 with 191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+127
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+127
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 195 with 212
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+130
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+130
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 199 with 214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+131
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+131
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 187 with 217
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 217 with 218
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 205 with 167
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 138 with 220
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 207 with 221
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+133
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 175 with 191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+135
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+135
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 177 with 226
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 210 with 227
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 211 with 228
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 196 with 229
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 198 with 230
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+136
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 215 with 185
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+138
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+138
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 203 with 236
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+140
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+140
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 224 with 240
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+143
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+143
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 191 with 242
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 225 with 242
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+143
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+143
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 229 with 245
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+145
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+145
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 197 with 245
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 214 with 246
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 200 with 247
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+144
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 219 with 237
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+145
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+145
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 206 with 251
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+146
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+146
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 242 with 258
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 244 with 259
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 246 with 261
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 248 with 247
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+152
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 234 with 263
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 218 with 265
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+154
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+154
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 236 with 265
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 251 with 266
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 253 with 267
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+153
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 240 with 270
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+155
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+155
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 259 with 273
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+157
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+157
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 262 with 247
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+162
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+162
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 264 with 282
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+164
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+164
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 265 with 282
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+163
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+163
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 258 with 288
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+168
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+168
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 247 with 299
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+178
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+178
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 285 with 302
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 254 with 303
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 255 with 303
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+179
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+179
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 190 with 306
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+181
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+181
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 286 with 306
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 288 with 307
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 307 with 308
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+180
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 273 with 311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+182
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+182
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 212 with 293
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+183
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+183
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 277 with 315
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+184
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+184
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 295 with 315
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+183
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+183
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 296 with 315
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+182
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+182
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 297 with 317
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+183
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+183
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 304 with 324
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+189
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+189
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 305 with 325
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+189
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+189
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 308 with 327
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 310 with 329
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 291 with 330
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+191
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 313 with 330
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 294 with 331
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+190
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 318 with 317
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+189
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+189
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 282 with 337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+194
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+194
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 302 with 339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+195
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+195
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 323 with 266
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+194
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+194
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 306 with 344
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+198
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+198
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 327 with 344
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 344 with 345
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 329 with 346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 311 with 346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+196
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+196
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 315 with 348
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+197
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 332 with 351
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+199
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+199
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 340 with 359
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+206
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+206
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 325 with 362
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+208
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+208
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 345 with 364
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+209
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+209
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 314 with 367
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+211
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+211
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 348 with 347
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+210
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+210
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 334 with 371
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+213
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+213
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 354 with 373
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 355 with 374
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 266 with 358
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 359 with 376
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 363 with 342
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+214
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 364 with 343
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+213
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+213
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 365 with 380
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+215
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+215
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 316 with 385
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+219
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+219
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 372 with 387
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+220
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+220
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 376 with 393
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+225
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+225
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 366 with 382
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+234
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+234
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 383 with 404
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+234
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+234
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 347 with 404
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+233
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+233
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 384 with 404
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+232
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+232
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 387 with 408
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+235
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+235
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 391 with 411
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+237
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+237
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 395 with 415
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+240
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+240
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 397 with 396
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+239
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+239
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 379 with 419
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+242
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+242
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 401 with 420
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+242
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+242
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 330 with 422
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+243
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+243
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 404 with 424
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+244
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+244
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 389 with 431
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+250
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+250
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 409 with 431
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+249
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+249
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 396 with 436
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+253
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+253
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 343 with 438
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+254
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+254
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 416 with 438
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+253
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+253
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 420 with 419
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+252
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+252
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 423 with 440
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+253
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+253
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 424 with 382
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+252
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+252
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 433 with 432
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+256
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+256
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 438 with 437
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+257
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+257
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 440 with 453
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+262
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+262
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 428 with 457
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+265
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+265
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 451 with 473
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+280
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+280
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 421 with 473
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+279
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+279
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 436 with 489
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+294
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+294
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 399 with 492
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+296
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+296
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 471 with 494
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+297
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+297
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 473 with 472
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+296
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+296
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 452 with 496
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+297
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+297
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 484 with 503
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+303
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+303
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 446 with 508
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+307
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+307
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 469 with 513
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 494 with 514
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 472 with 515
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+311
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 456 with 523
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+318
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+318
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 501 with 524
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+318
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+318
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 506 with 505
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+321
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+321
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 510 with 531
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+323
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+323
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 493 with 535
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+326
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+326
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 515 with 514
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+325
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+325
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 517 with 537
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+326
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+326
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 521 with 541
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+329
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+329
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 522 with 542
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+329
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+329
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 524 with 544
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+330
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+330
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 505 with 548
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+333
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+333
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 532 with 531
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+336
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+336
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 534 with 554
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 536 with 555
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 538 with 537
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+336
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+336
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 477 with 557
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 541 with 558
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+337
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 523 with 561
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 543 with 562
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 546 with 545
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+339
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 548 with 565
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+340
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+340
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 550 with 549
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+340
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+340
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 514 with 572
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+345
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+345
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 563 with 544
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+347
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+347
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 564 with 545
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 547 with 576
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 567 with 577
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+346
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 568 with 552
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+345
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+345
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 554 with 581
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+348
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+348
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 558 with 584
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 575 with 585
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 561 with 586
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 562 with 587
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+350
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 576 with 591
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+353
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+353
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 578 with 552
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+353
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+353
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 580 with 595
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+355
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+355
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 586 with 604
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+363
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+363
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 544 with 588
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+363
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+363
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 552 with 611
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 594 with 612
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 571 with 614
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+369
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+369
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 596 with 615
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+369
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+369
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 572 with 615
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 597 with 616
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+368
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 604 with 619
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+370
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+370
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 605 with 619
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+369
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+369
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 607 with 624
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+373
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+373
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 608 with 624
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+372
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+372
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 612 with 628
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+375
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+375
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 613 with 628
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+374
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+374
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 595 with 628
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+373
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+373
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 582 with 632
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+376
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+376
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 603 with 634
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+377
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+377
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 619 with 636
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+378
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+378
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 629 with 581
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+386
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+386
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 614 with 646
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+386
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+386
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 615 with 648
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+387
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+387
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 634 with 653
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+391
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+391
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 636 with 655
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+392
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+392
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 620 with 656
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+392
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+392
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 642 with 641
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+394
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+394
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 630 with 649
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 599 with 664
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 653 with 652
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 655 with 666
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+397
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 658 with 668
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+398
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+398
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+Merging group 659 with 671
+at Day14.getGroups [as solveForSecondStar] (/Users/GK47LX/source/AdventOfCode2017/solutions/lib/day14.ts:107:15)
+400
