@@ -97,8 +97,8 @@ class Day14 {
     }
 
 	public solveForFirstStar(lines: string[]) {
-        return this.getDisk(lines[0]).reduce((sum, hash) => 
-            sum + hash.split("").filter((bit) => bit === "1").length, 
+        return this.getDisk(lines[0]).reduce((acc, hash) => 
+            acc + hash.split("").filter((bit) => bit === "1").length, 
             0);
 	}
 

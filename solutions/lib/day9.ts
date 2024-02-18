@@ -23,17 +23,17 @@ class Day9 {
 
     public getGroupScore(parentGroup: Group, parentScore: number = 0): number {
         return parentGroup.Groups.reduce(
-            (prev, curr) => prev + this.getGroupScore(curr, parentScore + 1), parentScore + 1);
+            (acc, curr) => acc + this.getGroupScore(curr, parentScore + 1), parentScore + 1);
     }
 
     public countGarbage(group: Group) : number {
         let result = 0;
     
         result = group.Garbages.reduce(
-            (prev, curr) => prev + curr.Stream.length - 2, result); //ignore open and close tokens, < and >
+            (acc, curr) => acc + curr.Stream.length - 2, result); //ignore open and close tokens, < and >
 
         result = group.Groups.reduce(
-            (prev, curr) => prev + this.countGarbage(curr), result);
+            (acc, curr) => acc + this.countGarbage(curr), result);
 
         return result;
     }

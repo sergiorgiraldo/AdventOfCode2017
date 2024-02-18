@@ -58,7 +58,7 @@ class Day7 {
 	}
 
     public getStackWeight(node: Node): number {
-        return node.next.reduce((weight, child) => weight + this.getStackWeight(child as Node), node.weight);
+        return node.next.reduce((acc, child) => acc + this.getStackWeight(child as Node), node.weight);
     }
 
     public getNewWeightForBalance(node: Node): number {
