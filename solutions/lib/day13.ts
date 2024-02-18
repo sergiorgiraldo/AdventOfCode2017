@@ -61,12 +61,12 @@ class Day13 {
         
         let caughtPositions = this.getCaughtPositions(layers, 0);
         
-        return caughtPositions.reduce((sum, position) => {
+        return caughtPositions.reduce((acc, position) => {
             const lPosition = layers.get(position);
             
             if (lPosition === undefined) throw new Error("Position not found");
 
-            return sum + position * lPosition;
+            return acc + position * lPosition;
         }, 0);
 	}
 
