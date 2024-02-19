@@ -1,0 +1,2 @@
+Solution 1,"cknmidebghlajpfo", Execution time: 13 ms
+Solution 2,"cbolhmkgfpenidaj", Execution time: 94 ms
