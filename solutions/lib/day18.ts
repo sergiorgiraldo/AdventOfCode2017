@@ -94,10 +94,10 @@ type ExitStatus = {
 class DuetDblInterpreter {
     private buffers: Duet;
     private sentFrequencies: number[];
-    private sendCount: number;
     private instructions: string[];
     private nextInstruction: number;
     private otherInterpreter!: DuetDblInterpreter;
+    public sendCount: number;
 
     constructor(instructions: string[], pRegister: number, other: DuetDblInterpreter|undefined) {
         this.buffers = new Duet();
@@ -185,7 +185,7 @@ class Day18 {
             if (statusA.Deadlocked && statusB.Terminated) break;
         }
 
-        return interpreterB.SendCount;
+        return interpreterB.sendCount;
 	}
 }
 
