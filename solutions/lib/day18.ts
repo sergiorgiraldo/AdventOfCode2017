@@ -1,4 +1,3 @@
-
 class Duet {
 	private registers: { [letter: string]: number };
 
@@ -11,7 +10,7 @@ class Duet {
         }
 	}
 
-	public GetValue(identifier: string): number {
+	public getValue(identifier: string): number {
         if (/^[a-z]$/.test(identifier)){
 		    return this.registers[identifier];
         }
@@ -21,23 +20,23 @@ class Duet {
 	}
 
     // set X Y sets register X to the value of Y
-	public Set(x: string, y: string) {
-		this.registers[x] = this.GetValue(y);
+	public set(x: string, y: string) {
+		this.registers[x] = this.getValue(y);
 	}
 
     // add X Y increases register X by the value of Y.
-	public Add(x: string, y: string) {
-		this.registers[x] = this.registers[x] + this.GetValue(y);
+	public add(x: string, y: string) {
+		this.registers[x] = this.registers[x] + this.getValue(y);
 	}
 
     // mul X Y sets register X to the result of multiplying the value contained in register X by the value of Y.
-	public Mul(x: string, y: string) {
-		this.registers[x] = this.registers[x] * this.GetValue(y);
+	public mul(x: string, y: string) {
+		this.registers[x] = this.registers[x] * this.getValue(y);
 	}
 
     //mod X Y sets register X to the result of X modulo Y).
-	public Mod(x: string, y: string) {
-		this.registers[x] = this.registers[x] % this.GetValue(y);
+	public mod(x: string, y: string) {
+		this.registers[x] = this.registers[x] % this.getValue(y);
 	}
 }
 
@@ -62,21 +61,21 @@ class DuetInterpreter {
 
 			let instructionParts = instruction.split(" ");
 
-			if (instructionParts[0]      == "snd") this.playedFrequencies.push(this.buffers.GetValue(instructionParts[1]));
-			else if (instructionParts[0] == "set") this.buffers.Set(instructionParts[1], instructionParts[2]);
-			else if (instructionParts[0] == "add") this.buffers.Add(instructionParts[1], instructionParts[2]);
-			else if (instructionParts[0] == "mul") this.buffers.Mul(instructionParts[1], instructionParts[2]);
-            else if (instructionParts[0] == "mod") this.buffers.Mod(instructionParts[1], instructionParts[2]);
+			if (instructionParts[0]      == "snd") this.playedFrequencies.push(this.buffers.getValue(instructionParts[1]));
+			else if (instructionParts[0] == "set") this.buffers.set(instructionParts[1], instructionParts[2]);
+			else if (instructionParts[0] == "add") this.buffers.add(instructionParts[1], instructionParts[2]);
+			else if (instructionParts[0] == "mul") this.buffers.mul(instructionParts[1], instructionParts[2]);
+            else if (instructionParts[0] == "mod") this.buffers.mod(instructionParts[1], instructionParts[2]);
 			else if (instructionParts[0] == "rcv") {
-				if (this.buffers.GetValue(instructionParts[1]) != 0) {
+				if (this.buffers.getValue(instructionParts[1]) != 0) {
 					return this.playedFrequencies[this.playedFrequencies.length - 1];
 				}
 			} 
             else if (instructionParts[0] == "jgz") {
-				if (this.buffers.GetValue(instructionParts[1]) != 0) {
+				if (this.buffers.getValue(instructionParts[1]) != 0) {
 					this.nextInstruction--;
 
-					this.nextInstruction += this.buffers.GetValue(instructionParts[2]);
+					this.nextInstruction += this.buffers.getValue(instructionParts[2]);
 				}
 			} 
             else {
@@ -97,11 +96,11 @@ class DuetDblInterpreter {
     private instructions: string[];
     private nextInstruction: number;
     private otherInterpreter!: DuetDblInterpreter;
-    public sendCount: number;
+    private sendCount: number;
 
     constructor(instructions: string[], pRegister: number, other: DuetDblInterpreter|undefined) {
         this.buffers = new Duet();
-        this.buffers.Set("p", pRegister.toString());
+        this.buffers.set("p", pRegister.toString());
         this.sentFrequencies = new Array<number>();
         this.instructions = instructions;
         this.nextInstruction = 0;
@@ -114,6 +113,10 @@ class DuetDblInterpreter {
         interpreter.otherInterpreter = this;
     }
 
+    public get Sent(): number {
+        return this.sendCount;
+    }
+
     public interpret(): ExitStatus {
         let result: ExitStatus = {Deadlocked: false, Terminated: false};
 
@@ -124,20 +127,20 @@ class DuetDblInterpreter {
         let instructionParts = instruction.split(" ");
         
         if (instructionParts[0]      == "snd") {
-            this.sentFrequencies.push(this.buffers.GetValue(instructionParts[1]));
+            this.sentFrequencies.push(this.buffers.getValue(instructionParts[1]));
             this.sendCount++;
         } 
-        else if (instructionParts[0] == "set") this.buffers.Set(instructionParts[1], instructionParts[2]);
-        else if (instructionParts[0] == "add") this.buffers.Add(instructionParts[1], instructionParts[2]);
-        else if (instructionParts[0] == "mul") this.buffers.Mul(instructionParts[1], instructionParts[2]);
-        else if (instructionParts[0] == "mod") this.buffers.Mod(instructionParts[1], instructionParts[2]);
+        else if (instructionParts[0] == "set") this.buffers.set(instructionParts[1], instructionParts[2]);
+        else if (instructionParts[0] == "add") this.buffers.add(instructionParts[1], instructionParts[2]);
+        else if (instructionParts[0] == "mul") this.buffers.mul(instructionParts[1], instructionParts[2]);
+        else if (instructionParts[0] == "mod") this.buffers.mod(instructionParts[1], instructionParts[2]);
         else if (instructionParts[0] == "rcv") {
             if (this.otherInterpreter.sentFrequencies.length > 0) {
                 let received = this.otherInterpreter.sentFrequencies.shift();
                 
                 if (received === undefined) throw new Error("didn't receive anything");
 
-                this.buffers.Set(instructionParts[1], received.toString());
+                this.buffers.set(instructionParts[1], received.toString());
             } 
             else {                
                 this.nextInstruction--;
@@ -145,9 +148,9 @@ class DuetDblInterpreter {
             }
         }
         else if (instructionParts[0] == "jgz") {
-            if (this.buffers.GetValue(instructionParts[1]) > 0) {
+            if (this.buffers.getValue(instructionParts[1]) > 0) {
                 this.nextInstruction--;
-                this.nextInstruction += this.buffers.GetValue(instructionParts[2]);
+                this.nextInstruction += this.buffers.getValue(instructionParts[2]);
             }
         } 
         else {
@@ -174,8 +177,7 @@ class Day18 {
         let interpreterA = new DuetDblInterpreter(lines, 0, undefined);
         let interpreterB = new DuetDblInterpreter(lines, 1, interpreterA);
 
-        while(true)
-        {
+        while(true){
             const statusA = interpreterA.interpret();
             const statusB = interpreterB.interpret();
 
@@ -185,7 +187,7 @@ class Day18 {
             if (statusA.Deadlocked && statusB.Terminated) break;
         }
 
-        return interpreterB.sendCount;
+        return interpreterB.Sent;
 	}
 }
 
