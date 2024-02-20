@@ -1,0 +1,2 @@
+Solution 1,8600, Execution time: 1 ms
+Solution 2,7239, Execution time: 32 ms
