@@ -54,6 +54,7 @@ class DuetInterpreter {
 	}
 
 	public interpret(): number {
+        // dont keep track of the loop because it will break at first `rcv`
 		while (true) {
 			let instruction = this.instructions[this.nextInstruction];
 
@@ -118,7 +119,7 @@ class DuetDblInterpreter {
     }
 
     public interpret(): ExitStatus {
-        let result: ExitStatus = {Deadlocked: false, Terminated: false};
+        let status: ExitStatus = {Deadlocked: false, Terminated: false};
 
         let instruction = this.instructions[this.nextInstruction];
         
@@ -144,7 +145,7 @@ class DuetDblInterpreter {
             } 
             else {                
                 this.nextInstruction--;
-                result.Deadlocked = true;
+                status.Deadlocked = true;
             }
         }
         else if (instructionParts[0] == "jgz") {
@@ -157,9 +158,9 @@ class DuetDblInterpreter {
             throw new Error("unknown instruction: " + instruction);
         }
         
-        result.Terminated = this.nextInstruction < 0 || this.nextInstruction >= this.instructions.length;
+        status.Terminated = this.nextInstruction < 0 || this.nextInstruction >= this.instructions.length;
 
-        return result;
+        return status;
     }
 }
 

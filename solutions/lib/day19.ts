@@ -6,41 +6,44 @@ interface Packet {
 class Day19 {
 	public helpers = require("./helpers");
 
-	public followPath(lines: string[]) {
-		let path = lines.map((line) => line.split(""));
-		let position = { x: path[0].indexOf("|"), y: 0 };
-		let direction = { x: 0, y: 1 };
+	public routeThePacket(lines: string[]):{steps: number; letters: string;} {
+		const path = lines.map((line) => line.split(""));
+
+		let packet = { x: path[0].indexOf("|"), y: 0 };
+		let direction = { x: 0, y: 1 }; // start facing down, going vertically
 		let letters = "";
 		let steps = 0;
 
         // follow all | and -. 
         // when find + in the path, invert direction
         // collect all letters
-		while (!this.isFinished(path, position)) {
-			let current = path[position.y][position.x];
+		while (!this.atTheEnd(path, packet)) {
+			let current = path[packet.y][packet.x];
 
 			if (current === "+") {
-				// invert direction axis (vert/horiz): test first neighbour and set direction
-				let neighbour = this.getValue(path, { 
-					x: position.x + direction.y,
-					y: position.y + direction.x
+				// invert direction axis (vert/horz): test neighbour and set direction
+				let neighbour = this.getValue(path, {
+					x: packet.x + direction.y,
+					y: packet.y + direction.x
 				});
 
                 if (neighbour && neighbour !== " " && neighbour !== "+") {
 					direction = { x: direction.y, y: direction.x }; //
 				} 
                 else {
-					direction = { x: -direction.y, y: -direction.x }; 
+					direction = { x: -direction.y, y: -direction.x };
 				}
 			} 
             else if (current !== "|" && current !== "-") {
 				// it is a letter
-				letters += this.getValue(path, position);
+				letters += this.getValue(path, packet);
 			}
+
 			// update position
-			position.x += direction.x;
-			position.y += direction.y;
-			steps++;
+			packet.x += direction.x;
+			packet.y += direction.y;
+			
+            steps += 1;
 		}
 		return { steps, letters };
 	}
@@ -52,17 +55,18 @@ class Day19 {
         return value;
 	}
 
-	public isFinished(path: string[][], position: Packet) {
-		let value = this.getValue(path, position);
-		return !value || this.getValue(path, position) === " ";
+	public atTheEnd(path: string[][], packet: Packet) {
+		const value = this.getValue(path, packet);
+		
+        return !value || value === " ";
 	}
 
 	public solveForFirstStar(lines: string[]) {
-        return this.followPath(lines).letters;
+        return this.routeThePacket(lines).letters;
 	}
 
 	public solveForSecondStar(lines: string[]) {
-        return this.followPath(lines).steps;
+        return this.routeThePacket(lines).steps;
 	}
 }
 
