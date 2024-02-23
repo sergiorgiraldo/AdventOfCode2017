@@ -1,5 +1,18 @@
 # Changelog
 
+## [22.0.0](https://github.com/sergiorgiraldo/AdventOfCode2017/compare/v21.0.0...v22.0.0) (2024-02-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* day 22 & 23 completed
+* day 22 & 23 completed
+
+### Features
+
+* day 22 & 23 completed ([29190ac](https://github.com/sergiorgiraldo/AdventOfCode2017/commit/29190ac427dbcc8274c345e3b90d24ef87f8ff4b))
+* day 22 & 23 completed ([486e1a9](https://github.com/sergiorgiraldo/AdventOfCode2017/commit/486e1a9cdf8426b4bfbc9e964addc365f760928f))
+
 ## [21.0.0](https://github.com/sergiorgiraldo/AdventOfCode2017/compare/v20.0.0...v21.0.0) (2024-02-22)
 
 
