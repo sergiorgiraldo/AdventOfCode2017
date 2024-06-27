@@ -118,6 +118,8 @@
         <pre><code>{{ inputText }}</code></pre>
     </div>
     <script>
+        const day_ = "25";
+
         function wrapLinesWithSpan(text) {
             const lines = text.split("\n");
 
@@ -151,12 +153,12 @@
                     .then((response) => {
                         this.solutionText = wrapLinesWithSpan(response);
                     });
-                fetch("../lib/day25.ts")
+                fetch(`../lib/day${day_}.ts`)
                     .then(response => response.text())
                     .then((response) => {
                         this.libText = wrapLinesWithSpan(response);
                     });
-                fetch("../../__tests__/day25.ts")
+                fetch(`../../__tests__/day${day_}.ts`)
                     .then(response => response.text())
                     .then((response) => {
                         this.unitTestText = wrapLinesWithSpan(response);
@@ -169,7 +171,7 @@
         const solutionTitle = (document.location.href + "").split("/").reverse()[1];
         const solutionDay = solutionTitle.split("day")[1];
         const yearOfChallenge = (document.location.href + "").split("/").reverse()[3].split("AdventOfCode")[1];
-        document.getElementById("solutionTitle").innerText = solutionTitle;
+        document.getElementById("solutionTitle").innerHTML = solutionTitle;
         document.title = solutionTitle;
         document.getElementById("puzzle").href = `https://adventofcode.com/${yearOfChallenge}/day/${solutionDay}`;
     </script>
