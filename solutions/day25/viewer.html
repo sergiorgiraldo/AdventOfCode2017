@@ -100,17 +100,17 @@
         <h3>
             <a class="files" href="../lib/day25.ts">lib</a>
         </h3>
-        <pre>{{{ libText }}}</pre>
+        <pre>{{ libText }}</pre>
 
         <h3>
             <a class="files" href="../../__tests__/day25.ts">unit tests</a>
         </h3>
-        <pre>{{{ unitTestText }}}</pre>
+        <pre>{{ unitTestText }}</pre>
 
         <h3>
             <a class="files" href="./solution.ts">solution.ts</a>
         </h3>
-        <pre>{{{ solutionText }}}</pre>
+        <pre>{{ solutionText }}</pre>
 
         <h3>
             <a class="files" href="./input.txt">input.txt</a>
@@ -171,7 +171,7 @@
         const solutionTitle = (document.location.href + "").split("/").reverse()[1];
         const solutionDay = solutionTitle.split("day")[1];
         const yearOfChallenge = (document.location.href + "").split("/").reverse()[3].split("AdventOfCode")[1];
-        document.getElementById("solutionTitle").innerHTML = solutionTitle;
+        document.getElementById("solutionTitle").innerText = solutionTitle;
         document.title = solutionTitle;
         document.getElementById("puzzle").href = `https://adventofcode.com/${yearOfChallenge}/day/${solutionDay}`;
     </script>
