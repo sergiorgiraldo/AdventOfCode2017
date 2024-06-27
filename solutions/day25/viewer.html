@@ -65,6 +65,10 @@
         a.files:visited {
             color: indigo;
         }
+
+        h2{
+            color: darkgreen;
+        }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.min.js"></script>
     <script src="../script.js"></script>
@@ -100,7 +104,7 @@
         <h3>
             <a class="files" href="../lib/day25.ts">lib</a>
         </h3>
-        <pre>{{ libText }}</pre>
+        <pre><span v-html="libText"></span></pre>
 
         <h3>
             <a class="files" href="../../__tests__/day25.ts">unit tests</a>
