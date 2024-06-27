@@ -22,7 +22,7 @@
 
         pre span {
             display: block;
-            line-height: 1.5rem;
+            line-height: 1rem;
         }
 
         pre span:before {
@@ -140,7 +140,7 @@
                 fetch("./answer.txt")
                     .then(response => response.text())
                     .then((data) => {
-                        this.answerText =wrapLinesWithSpan(response);
+                        this.answerText = wrapLinesWithSpan(response);
                     });
                 fetch("./input.txt")
                     .then(response => response.text())
