@@ -40,11 +40,6 @@
             font-size: 16px;
         }
 
-        span {
-            text-transform: capitalize;
-            color: darkgreen;
-        }
-
         a.nav {
             color: black;
         }
@@ -99,7 +94,7 @@
         <h3>
             <a class="files" href="./answer.txt">ANSWERS</a>
         </h3>
-        <pre><code>{{ answerText }}</code></pre>
+        <pre><span v-html="answerText"></span></pre>
 
         <h3>
             <a class="files" href="../lib/day25.ts">lib</a>
@@ -109,17 +104,17 @@
         <h3>
             <a class="files" href="../../__tests__/day25.ts">unit tests</a>
         </h3>
-        <pre>{{ unitTestText }}</pre>
+        <pre><span v-html="unitTestText"></span></pre>
 
         <h3>
             <a class="files" href="./solution.ts">solution.ts</a>
         </h3>
-        <pre>{{ solutionText }}</pre>
+        <pre><span v-html="solutionText"></span></pre>
 
         <h3>
             <a class="files" href="./input.txt">input.txt</a>
         </h3>
-        <pre><code>{{ inputText }}</code></pre>
+        <pre><span v-html="inputText"></span></pre>
     </div>
     <script>
         const day_ = "25";
@@ -145,12 +140,12 @@
                 fetch("./answer.txt")
                     .then(response => response.text())
                     .then((data) => {
-                        this.answerText = data;
+                        this.answerText =wrapLinesWithSpan(response);
                     });
                 fetch("./input.txt")
                     .then(response => response.text())
                     .then((response) => {
-                        this.inputText = response;
+                        this.inputText = wrapLinesWithSpan(response);
                     });
                 fetch("./solution.ts")
                     .then(response => response.text())
